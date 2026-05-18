@@ -1,1 +1,1 @@
-# markdown-Speaker-Obsidian-Plugin
+# Markdown-Speaker-Obsidian-Plugin
