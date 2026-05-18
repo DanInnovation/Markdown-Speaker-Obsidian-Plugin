@@ -1,0 +1,10 @@
+{
+  "id": "markdown-speaker",
+  "name": "Markdown Speaker",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Read the current Markdown note aloud with marks, voice controls, and a collapsible outline.",
+  "author": "Dan",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
